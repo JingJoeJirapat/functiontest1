@@ -23,14 +23,14 @@ function Q4(a, b){
 console.log (("Q4"), Q4(5 , 1),Q4(6 , 3),Q4(10 , 3))
 
 
-// function Q5(x){
-//     let a = 365
-//     return x * a
-// }
-// console.log (("Q5"), Q5(65), Q5(0), Q5(20))
+function Q5(x){
+    let a = 365
+    return x * a
+}
+console.log (("Q5"), Q5(65), Q5(0), Q5(20))
 
 
-// function Q6(x, y, z){
-//     return (x*3) + (y*1) + (z*0)
-// }
-// console.log (("Q6"), Q6(3 , 4, 2),Q6(5, 0, 2),Q6(0, 0, 1))
+function Q6(x, y, z){
+    return (x*3) + (y*1) + (z*0)
+}
+console.log (("Q6"), Q6(3 , 4, 2),Q6(5, 0, 2),Q6(0, 0, 1))
